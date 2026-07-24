@@ -176,16 +176,6 @@ console.log( accumulator() );
 
 <section class="related">
 
-* * *
-
-## See Also
-
--   <span class="package-name">[`@stdlib/stats-incr/sumprod`][@stdlib/stats/incr/sumprod]</span><span class="delimiter">: </span><span class="description">Compute a sum of products incrementally.</span>
--   <span class="package-name">[`@stdlib/stats-incr/nansum`][@stdlib/stats/incr/nansum]</span><span class="delimiter">: </span><span class="description">Compute a sum incrementally, ignoring `NaN` values.</span>
--   <span class="package-name">[`@stdlib/stats-incr/prod`][@stdlib/stats/incr/prod]</span><span class="delimiter">: </span><span class="description">compute a product incrementally.</span>
--   <span class="package-name">[`@stdlib/stats-incr/sum`][@stdlib/stats/incr/sum]</span><span class="delimiter">: </span><span class="description">compute a sum incrementally.</span>
-
-
 </section>
 
 <!-- /.related -->
@@ -261,18 +251,6 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/stats-incr-nansumprod/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-incr-nansumprod/main/LICENSE
-
-<!-- <related-links> -->
-
-[@stdlib/stats/incr/sumprod]: https://github.com/stdlib-js/stats-incr-sumprod
-
-[@stdlib/stats/incr/prod]: https://github.com/stdlib-js/stats-incr-prod
-
-[@stdlib/stats/incr/sum]: https://github.com/stdlib-js/stats-incr-sum
-
-[@stdlib/stats/incr/nansum]: https://github.com/stdlib-js/stats-incr-nansum
-
-<!-- </related-links> -->
 
 </section>
 
